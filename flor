@@ -1,0 +1,12 @@
+from turtle import *
+import colorsys
+
+bgcolor('blue')
+pensize(2)
+tracer(10)
+h=0
+
+colores = ['withe', '#ffcb7d', 'FFA216']
+
+def dibuo(a,n):
+    
